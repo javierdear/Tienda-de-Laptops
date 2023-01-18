@@ -1,6 +1,6 @@
 import { loadProducts, Products } from "./main.js";
 
-const dataUrl = "/data.json";
+const dataUrl = "data.json";
 
 const getData = async () =>
 {
