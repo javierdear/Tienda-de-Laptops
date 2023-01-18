@@ -5,7 +5,7 @@
       "price": 97950,
       "description": "Lenovo-V15-IGL",
       "screenSize":"15.6",
-      "image": "/images/1_Lenovo_V15-IGL_15.6__PENTIUM_N5030.jpg",
+      "image": "images/1_Lenovo_V15-IGL_15.6__PENTIUM_N5030.jpg",
       "cantidad": 1
     },
     {
@@ -14,7 +14,7 @@
       "price": 104900,
       "description": "Asus-X515EA",
       "screenSize":"15.6",
-      "image": "/images/2_ASUS_X515EA_15.6__FHD_Core_I3.jpg",
+      "image": "images/2_ASUS_X515EA_15.6__FHD_Core_I3.jpg",
       "cantidad": 1
     },
     {
@@ -23,7 +23,7 @@
       "price": 121490,
       "description": "Lenovo-V15",
       "screenSize":"15.6",
-      "image": "/images/3_Lenovo_V15_15.6__Core_I3.jpg",
+      "image": "images/3_Lenovo_V15_15.6__Core_I3.jpg",
       "cantidad": 1
     },
     {
@@ -32,7 +32,7 @@
       "price": 122000,
       "description": "Acer-Aspire-5-Core-I3",
       "screenSize":"15.6",
-      "image": "/images/4Acer_Aspire_5_15.6__Core_I3.jpg",
+      "image": "images/4Acer_Aspire_5_15.6__Core_I3.jpg",
       "cantidad": 1
     },
     {
@@ -41,7 +41,7 @@
       "price": 122840,
       "description": "Lenovo-V14",
       "screenSize":"14",
-      "image": "/images/5_Lenovo_V14_14__Ryzen_3_3250U.jpg",
+      "image": "images/5_Lenovo_V14_14__Ryzen_3_3250U.jpg",
       "cantidad": 1
     },
     {
@@ -50,7 +50,7 @@
       "price": 130260,
       "description": "Lenovo-V15-Core-I3",
       "screenSize":"15.6",
-      "image": "/images/6_Lenovo_V15_15.6__Core_I3_10110U_8GB.jpg",
+      "image": "images/6_Lenovo_V15_15.6__Core_I3_10110U_8GB.jpg",
       "cantidad": 1
     },
     {
@@ -59,7 +59,7 @@
       "price": 140000,
       "description": "Lenovo-V14-ITL",
       "screenSize":"14",
-      "image": "/images/7_Lenovo_V14-ITL_14__Core_I3_1115G4.jpg",
+      "image": "images/7_Lenovo_V14-ITL_14__Core_I3_1115G4.jpg",
       "cantidad": 1
     },
     {
@@ -68,7 +68,7 @@
       "price": 140500,
       "description": "Acer-Aspire-5-Core-I5",
       "screenSize":"15.6",
-      "image": "/images/8_Acer_Aspire_5_15.6__Core_I5_10210U.jpg",
+      "image": "images/8_Acer_Aspire_5_15.6__Core_I5_10210U.jpg",
       "cantidad": 1
     },
     {
@@ -77,7 +77,7 @@
       "price": 155260,
       "description": "Acer-Aspire-3",
       "screenSize":"15.6",
-      "image": "/images/9_Acer_Aspire_3_15.6__FHD_Ryzen_5_3500U_8GB.jpg",
+      "image": "images/9_Acer_Aspire_3_15.6__FHD_Ryzen_5_3500U_8GB.jpg",
       "cantidad": 1
     },
     {
@@ -86,7 +86,7 @@
       "price": 157500,
       "description": "Dell-Vostro",
       "screenSize":"14",
-      "image": "/images/10_Dell_Vostro_3405_14__FHD_Ryzen_5_3450U.jpg",
+      "image": "images/10_Dell_Vostro_3405_14__FHD_Ryzen_5_3450U.jpg",
       "cantidad": 1
     }
   
