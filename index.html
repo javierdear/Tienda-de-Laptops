@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <!--CSS-->
+   <link rel="stylesheet" href="/css/style.css">
+    <!--Boostrap-->
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css"> 
+   <!--JavaScript-->
+   <script defer src="/js/main.js" type="module"></script>
+    <title>Document</title>
+</head>
+<body class="d-flex flex-column min-vh-100">
+  <header>
+    <nav class="navbar bg-light fixed-top">
+      <div class="container-fluid">
+        <span class="navbar-brand mb-0 h1">Tienda de Laptops</span>
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+          <i class="fa-solid fa-cart-shopping"></i></button>
+      </div>
+    </nav>
+  </header>
+
+  <section id="container" class="containerProduct"></section>
+
+  <section class="modal-cart">
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h1 class="modal-title fs-5" id="exampleModalLabel">Carrito</h1>
+            <button id="closeModalBtn" type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <section id="cart">
+              <p id="emptyMsg">No hay elementos en el carrito</p>
+              <div id="shoppingCart"></div>
+            </section>
+          </div>
+          <div class="modal-footer">
+            <div class="total"><p><span id="totalCarrito"></span></p></div>
+            
+            <button type="button" class="btn btn-light" data-bs-dismiss="modal">Continuar comprando</button>
+            <button type="button" class="btn btn-dark" id="cleanCart">Vaciar carrito</button>
+            <button id="checkoutBtn" type="button" class="btn btn-success">Finalizar compra</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  
+  <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  <script src="https://kit.fontawesome.com/c04706410f.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"></script>
+  
+</body>
+</html>
